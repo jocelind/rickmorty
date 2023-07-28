@@ -1,6 +1,6 @@
 import { react } from "react";
-import Caracteres from "./components/caracteres.jsx";
-import ListaCaracteres from "./components/listaCaracteres.jsx";
+import Caracteres from "./components/Caracteres.jsx";
+import ListaCaracteres from "./components/ListaCaracteres.jsx";
 
 
 
